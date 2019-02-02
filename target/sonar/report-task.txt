@@ -1,0 +1,7 @@
+organization=nuves-github
+projectKey=NuVeS_GIZMO
+serverUrl=https://sonarcloud.io
+serverVersion=7.7.0.21605
+dashboardUrl=https://sonarcloud.io/dashboard?id=NuVeS_GIZMO
+ceTaskId=AWivAnyIWNPA34jNPJ63
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AWivAnyIWNPA34jNPJ63
